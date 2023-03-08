@@ -8,7 +8,7 @@
 ## Installation
 
 ```bash
-$ composer require setono/deployer-supervisor
+$ composer require slim-dg9/deployer-supervisor
 ```
 
 ## Usage

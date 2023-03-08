@@ -1,14 +1,8 @@
 {
-    "name": "setono/deployer-supervisor",
+    "name": "dg9/deployer-supervisor",
     "type": "library",
     "description": "Handle supervisor configs in your deployment",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Joachim Løvgaard",
-            "email": "joachim@loevgaard.dk"
-        }
-    ],
     "require": {
         "php": ">=7.4",
         "deployer/deployer": "^7.0",

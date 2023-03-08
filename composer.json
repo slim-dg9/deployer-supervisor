@@ -1,5 +1,5 @@
 {
-    "name": "dg9/deployer-supervisor",
+    "name": "slim-dg9/deployer-supervisor",
     "type": "library",
     "description": "Handle supervisor configs in your deployment",
     "license": "MIT",
